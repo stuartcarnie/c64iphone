@@ -1,0 +1,128 @@
+<resources>
+<game_profile_page_info>
+  <suggestions_topic_id>49734</suggestions_topic_id>
+  <short_name>C64</short_name>
+  <has_achievements>true</has_achievements>
+  <has_featured_application>false</has_featured_application>
+  <has_leaderboards>true</has_leaderboards>
+  <name>Commodore 64</name>
+  <has_ipurchase>false</has_ipurchase>
+  <is_owned_by_local_player>true</is_owned_by_local_player>
+  <has_chat_rooms>true</has_chat_rooms>
+  <id>22373</id>
+  <has_challenges>false</has_challenges>
+</game_profile_page_info>
+<offline>
+  <leaderboards>
+    <leaderboard>
+      <active>true</active>
+      <allow_posting_lower_scores>false</allow_posting_lower_scores>
+      <client_application_id>22373</client_application_id>
+      <created_at>2009-11-30T08:23:43Z</created_at>
+      <custom_data nil="true"></custom_data>
+      <descending_sort_order>true</descending_sort_order>
+      <display_text nil="true"></display_text>
+      <end_version>9999.99.99</end_version>
+      <id>84213</id>
+      <is_aggregate>false</is_aggregate>
+      <name>Jupiter Lander</name>
+      <reached_at nil="true"></reached_at>
+      <score nil="true"></score>
+      <start_version>0001.04.00</start_version>
+      <updated_at>2010-01-08T07:19:05Z</updated_at>
+      <visible>true</visible>
+    </leaderboard>
+    <leaderboard>
+      <active>true</active>
+      <allow_posting_lower_scores>false</allow_posting_lower_scores>
+      <client_application_id>22373</client_application_id>
+      <created_at>2010-01-10T03:37:16Z</created_at>
+      <custom_data nil="true"></custom_data>
+      <descending_sort_order>true</descending_sort_order>
+      <display_text nil="true"></display_text>
+      <end_version>9999.99.99</end_version>
+      <id>131033</id>
+      <is_aggregate>false</is_aggregate>
+      <name>Uridium</name>
+      <reached_at nil="true"></reached_at>
+      <score nil="true"></score>
+      <start_version>0001.04.00</start_version>
+      <updated_at>2010-01-10T03:37:16Z</updated_at>
+      <visible>true</visible>
+    </leaderboard>
+    <leaderboard>
+      <active>true</active>
+      <allow_posting_lower_scores>false</allow_posting_lower_scores>
+      <client_application_id>22373</client_application_id>
+      <created_at>2010-01-17T03:46:03Z</created_at>
+      <custom_data nil="true"></custom_data>
+      <descending_sort_order>true</descending_sort_order>
+      <display_text nil="true"></display_text>
+      <end_version>9999.99.99</end_version>
+      <id>141494</id>
+      <is_aggregate>false</is_aggregate>
+      <name>Nebulus</name>
+      <reached_at nil="true"></reached_at>
+      <score nil="true"></score>
+      <start_version>0001.04.00</start_version>
+      <updated_at>2010-01-17T03:46:03Z</updated_at>
+      <visible>true</visible>
+    </leaderboard>
+    <leaderboard>
+      <active>true</active>
+      <allow_posting_lower_scores>false</allow_posting_lower_scores>
+      <client_application_id>22373</client_application_id>
+      <created_at>2010-01-17T06:03:46Z</created_at>
+      <custom_data nil="true"></custom_data>
+      <descending_sort_order>true</descending_sort_order>
+      <display_text nil="true"></display_text>
+      <end_version>9999.99.99</end_version>
+      <id>141524</id>
+      <is_aggregate>false</is_aggregate>
+      <name>Lemans</name>
+      <reached_at nil="true"></reached_at>
+      <score nil="true"></score>
+      <start_version>0001.04.00</start_version>
+      <updated_at>2010-01-17T06:03:46Z</updated_at>
+      <visible>true</visible>
+    </leaderboard>
+    <leaderboard>
+      <active>true</active>
+      <allow_posting_lower_scores>false</allow_posting_lower_scores>
+      <client_application_id>22373</client_application_id>
+      <created_at>2010-01-17T06:44:36Z</created_at>
+      <custom_data nil="true"></custom_data>
+      <descending_sort_order>true</descending_sort_order>
+      <display_text nil="true"></display_text>
+      <end_version>9999.99.99</end_version>
+      <id>141544</id>
+      <is_aggregate>false</is_aggregate>
+      <name>Arctic Shipwreck</name>
+      <reached_at nil="true"></reached_at>
+      <score nil="true"></score>
+      <start_version>0001.04.00</start_version>
+      <updated_at>2010-01-17T06:44:36Z</updated_at>
+      <visible>true</visible>
+    </leaderboard>
+    <leaderboard>
+      <active>true</active>
+      <allow_posting_lower_scores>false</allow_posting_lower_scores>
+      <client_application_id>22373</client_application_id>
+      <created_at>2010-01-17T23:29:26Z</created_at>
+      <custom_data nil="true"></custom_data>
+      <descending_sort_order>true</descending_sort_order>
+      <display_text nil="true"></display_text>
+      <end_version>9999.99.99</end_version>
+      <id>142824</id>
+      <is_aggregate>false</is_aggregate>
+      <name>Paradroid</name>
+      <reached_at nil="true"></reached_at>
+      <score nil="true"></score>
+      <start_version>0001.04.00</start_version>
+      <updated_at>2010-01-17T23:29:26Z</updated_at>
+      <visible>true</visible>
+    </leaderboard>
+  </leaderboards>
+</offline>
+
+</resources>

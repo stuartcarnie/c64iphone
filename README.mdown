@@ -1,0 +1,38 @@
+Commodore 64 for iPhone v1.5
+============================
+
+Introduction and Copyrights
+---------------------------
+
+This is the official release of the Commodore 64 for iPhone application, 
+available on the [app store](http://itunes.com/apps/c64).  Commodore 64 
+for iPhone is a fully licensed "simulator" for the iPhone, 
+iPod Touch and iPad devices.  This release is licensed under GPLv3,
+and a copy of the license can be found in the root of the project
+within `gpl.txt`.
+
+This product is based on [Frodo](http://frodo.cebix.net/), 
+which is copyright &copy; Christian Bauer.
+
+All images and artwork contained within this repository are 
+copyright &copy; Manomio LLC, and cannot be used for any commercial
+purposes without the express written permission of Manomio LLC.
+
+Original Commodore 64 ROMs are copyright &copy; Commodore Gaming BV,
+and cannot be used without the express written permission of
+Commodore Gaming BV.
+
+What's in this repository?
+--------------------------
+
+This repository is the public release from [Manomio](http://manomio.com),
+and contains all source code, project files and images necessary to 
+build C64.  Any copyrighted materials, such as bundled games and 
+original Commodore ROMs are not included and must be sourced elsewhere.
+In addition, a third party static library from [Flurry analytics](http://flurry.com)
+is freely available and must be downloaded separately.  Removing the
+dependency on Flurry is very easy, but is left as an exercise to the
+developer.
+
+This repository will be updated as new binary releases are published to
+the App Store.

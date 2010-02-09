@@ -1,0 +1,3 @@
+[submodule "Classes/Shared/EGOImageLoading"]
+	path = Classes/Shared/EGOImageLoading
+	url = git://github.com/enormego/EGOImageLoading.git
