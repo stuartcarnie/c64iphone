@@ -36,3 +36,11 @@ developer.
 
 This repository will be updated as new binary releases are published to
 the App Store.
+
+Project builds
+--------------
+
+The project has two separate targets.  C64 and C64ftp.  
+
+ - C64.app is the official build submitted to the App Store
+ - C64ftp.app is used by Manomio for internal use and testing.
