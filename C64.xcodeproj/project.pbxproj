@@ -4213,13 +4213,6 @@
 			name = devices;
 			sourceTree = "<group>";
 		};
-		0529489F110BACC800E500F3 /* Controls */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Controls;
-			sourceTree = "<group>";
-		};
 		052A2E51111F8DA0008AA835 /* GameBundles */ = {
 			isa = PBXGroup;
 			children = (
@@ -4273,7 +4266,6 @@
 			isa = PBXGroup;
 			children = (
 				05C338F60FD79F10000758D4 /* asi-http-request */,
-				0529489F110BACC800E500F3 /* Controls */,
 				054100BB10C762F500C40936 /* EGOImageLoading */,
 				05D8F91A0EDF472500F4D2BC /* Emulator */,
 				05C3399D0FD79F17000758D4 /* json */,
